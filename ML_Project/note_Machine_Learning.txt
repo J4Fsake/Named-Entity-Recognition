@@ -1,0 +1,10 @@
+Project #12: Encrypted Traffic Classification (ISCX VPN-nonVPN)
+Dataset:[ISCX VPN-nonVPN Dataset](https://www.unb.ca/cic/datasets/vpn.html)  
+Problem Type: Multi-class Classification  
+Goal: Identify traffic type and detect VPN usage using flow-based features.  
+Models: SVM, Random Forest, Gradient Boosting  
+Evaluation: Accuracy, ROC-AUC, Confusion Matrix  
+Outcome: Analyze encrypted flows and detect VPN activity.  
+Note:  Pay attention to class imbalance and scaling.
+
+
